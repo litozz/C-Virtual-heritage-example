@@ -16,4 +16,6 @@ int main(){
 
 	for(int i=0;i<dibujables.size();i++)
 		dibujables[i]->dibujar(3,true);
+
+	cout<<"Eso es todo."<<endl;
 }
